@@ -1,0 +1,177 @@
+Day,Date,Start_Time,End_Time,Group,Module_POI,Lesson_Activity,Description,Task_ Notes,Resources,Trainers,Uniform,Hours,Type
+1,,8:15,8:30,3B-352S-22-005,Module B,52S1B01INTRO,Group Resume Activity,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,PPN
+1,,8:30,10:00,3B-352S-22-005,Module B,52S1B01LSA01,Integrate into a New Unit/Class,,Rowe Rm 150B,CW3 Kopas,OCP,1.30,DSL
+1,,10:00,11:00,3B-352S-22-005,Module B,52S1B01LSA02,Describe SIGINT Intelligence Oversight,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+1,,11:00,12:30,3B-352S-22-005,Module B,52S1B01LSA06,Discuss Military Briefing for SIGINT Operations,,Rowe Rm 150B,CW3 Kopas,OCP,1.30,DSL
+1,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+1,,13:30,17:30,3B-352S-22-005,Module B,52S1B01LSA07,Prepare a Gaining Unit Information Brief,Assign Task,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+2,,8:30,12:30,3B-352S-22-005,Module B,52S1B01LSA07,Prepare a Gaining Unit Information Brief,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+2,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+2,,13:30,17:30,3B-352S-22-005,Module B,52S1B01LSA07,Prepare a Gaining Unit Information Brief,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+3,,8:30,9:30,3B-352S-22-005,Module B,52S1B01LSA07,Prepare a Gaining Unit Information Brief,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,IN
+3,,9:30,10:30,3B-352S-22-005,Module B,52S1B01LSA08,Deliver a Gaining Unit Information Brief,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,PE
+3,,10:30,12:30,3B-352S-22-005,Module B,52S1B01LSA03,Describe Staff Operations,,Rowe Rm 150B,CW3 Kopas,OCP,2.00,DSL
+3,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+3,,13:30,15:30,3B-352S-22-005,Module B,52S1B01LSA04,Discuss Military Writing in Staff Documents,,Rowe Rm 150B,CW3 Kopas,OCP,2.00,DSL
+3,,15:30,16:00,3B-352S-22-005,Module B,52S1B01LSA05,Practical Exercise - Write a Signal Survey Team Mission Statement,,Rowe Rm 150B,CW3 Kopas,OCP,0.30,PE
+3,,16:00,17:00,3B-352S-22-005,Module B,52S1B01LSA10,Describe the USSID Process,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+3,,17:00,17:30,3B-352S-22-005,Module B,52S1B01LSAINTRO,Write Personal Introduction Information Paper,Assignment Due by Midnight,Rowe Rm 150B,CW3 Kopas,OCP,0.30,PE
+4,,8:30,10:30,3B-352S-22-005,Module B,52S1B01LSA11,Identify Assigned USSIDS,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,PE
+4,,10:30,11:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - Introduction to GATEKEEPER (TOOL1200),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,IMI
+4,,11:30,12:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - Classification Basics (CLAS1000),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,IMI
+4,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+4,,13:30,15:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - Classification and Marking Mechanics (CLAS1500),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,IMI
+4,,15:30,16:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - Intelligence Oversight Training (OVSC1000),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,IMI
+4,,16:30,17:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - Overview of Signals Intelligence Authorities (OVSC1100),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,IMI
+5,,8:30,9:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - Intermediate Classification Principles (CLAS2000),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,IMI
+5,,9:30,12:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - USSID 18 (OVSC1800),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,3.00,IMI
+5,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+5,,13:30,15:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - GCHQ Operational Legalities for Five Eyes Partners (OVSC1701),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,IMI
+5,,15:30,17:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - Intelligence Oversight Officer (IOO) Training (OVSC2201),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,IMI
+6,,8:30,10:30,3B-352S-22-005,Module B,52S1B01LSA09,VUport - NSA Raw Traffic Database Auditor Training (OVSC3101),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,IMI
+6,,10:30,12:30,3B-352S-22-005,Module B,52S1B01LSA12,Discuss National SIGINT Databases,,Rowe Rm 150B,CW3 Kopas,OCP,2.00,DSL
+6,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+6,,13:30,15:00,3B-352S-22-005,Module B,52S1B01LSA13,Identify Relevant National SIGINT Databases,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.30,PE
+7,,7:00,8:30,3B-352S-22-005,Module B,52S1B05LSA01,ACO / ATCAE Brief,Guest Speaker,Rowe Rm 150B,CW3 Kopas,OCP,1.30,SE
+7,,8:30,9:30,3B-352S-22-005,Module B,52S1B01LSA14,Describe the SIGINT Site Profile Creation Process,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+7,,9:30,11:30,3B-352S-22-005,Module B,52S1B01LSA15,Create a SIGINT Site Profile,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,PE
+7,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+7,,12:30,16:30,3B-352S-22-005,Module B,52S1B01LSA16,Write a Signal of Interest Executive Summary (EXSUM),,Rowe Rm 150B,CW3 Kopas,OCP,4.00,TE
+7,,16:30,17:00,3B-352S-22-005,Module B,52S1B01LSA17,Prepare Signal of Interest Brief #1,,Rowe Rm 150B,CW3 Kopas,OCP,0.30,IN
+8,,8:15,11:15,3B-352S-22-005,Module B,52S1B02LSA18,Discover Operational ELINT (OPELINT),,Rowe Hall Rm 150,,,3.00,DSL
+8,,11:15,12:30,3B-352S-22-005,Module B,52S1B02LSA18,Demonstrate the OPELINT Process (CED PE),,Rowe Hall Rm 150,,,1.15,PE
+8,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+8,,13:00,14:00,3B-352S-22-005,Module B,52S1B02LSA19,Discover Technical Electronic Intelligence (TechELINT) and Electromagnetic Interference (EMI),Guest Speaker,Rowe Hall Rm 150,,,1.00,SE
+8,,14:00,15:00,3B-352S-22-005,Module B,52S1B02LSA17,Discover Foreign Instrumentation Signals Intelligence (FISINT),Guest Speaker,Rowe Rm 150B,CW3 Kopas,OCP,1.00,SE
+8,,15:00,17:30,3B-352S-22-005,Module B,52S1B02LSA18,Conduct ELINT OPS with FADE/MIST Software,,Rowe Hall Rm 150,,,2.30,SE
+9,,8:15,12:00,3B-352S-22-005,Module B,52S1B02LSA18,Conduct ELINT OPS with FADE/MIST Software,,Rowe Hall Rm 150,,,3.45,SE
+9,,12:00,13:00,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+9,,13:00,17:15,3B-352S-22-005,Module B,52S1B02LSA18,Conduct ELINT OPS with FADE/MIST Software,,Rowe Hall Rm 150,,,4.15,SE
+10,,8:30,12:00,3B-352S-22-005,Module B,52S1B02LSA18,Demonstrate FADE/MIST Techniques,,Rowe Hall Rm 150,,,3.30,PE
+10,,12:00,13:00,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+10,,13:00,17:30,3B-352S-22-005,Module B,52S1B01LSA16,Write a Signal of Interest Executive Summary (EXSUM),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,4.30,TE
+11,,8:30,12:30,3B-352S-22-005,Module B,52S1B01LSA17,Prepare Signal of Interest Brief #1,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+11,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+11,,13:30,17:30,3B-352S-22-005,Module B,52S1B01LSA17,Prepare Signal of Interest Brief #1,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+12,,8:30,9:30,3B-352S-22-005,Module B,52S1B02LSA06,Discuss Trojan Soldier Portable Remote Intelligence Group (TSPRING) Employment,MIB-T Guest Speaker,Rowe Rm 150B,CW3 Kopas,OCP,1.00,
+12,,9:30,11:30,3B-352S-22-005,Module B,52S1B01LSA17,Prepare Signal of Interest Brief #1,,Rowe Rm 150B,CW3 Kopas,OCP,2.00,IN
+12,,11:30,12:00,3B-352S-22-005,Module B,52S1B01LSA18,Deliver Signal of Interest Brief #1,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,0.30,TE
+12,,12:00,12:15,3B-352S-22-005,Module B,52S1B01SUM,TLO Summary,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+12,,12:15,12:30,3B-352S-22-005,Module B,52S1B02INTRO,TLO Introduction,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+12,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+12,,13:30,14:30,3B-352S-22-005,Module B,52S1B02LSA09,Discuss Property Accountability,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+12,,14:30,15:30,3B-352S-22-005,Module B,52S1B02LSA07,Discuss the Asset Site Selection Process,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+12,,15:30,17:30,3B-352S-22-005,Module B,52S1B02LSA08,Conduct Site Selection,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,PPN
+13,,8:30,12:00,3B-352S-22-005,Module B,52S1B03LSA01,Discuss SIGINT Collection Management,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,3.30,DSL
+13,,12:00,13:00,3B-352S-22-005,Admin,Lunch,,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,1.00,
+13,,13:00,17:00,3B-352S-22-005,Module B,52S1B02LSA01,Describe the National SIGINT Requirements Process,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,4.00,DSL
+14,,8:30,10:00,3B-352S-22-005,Module B,52S1B02LSA03,Develop Priority Intelligence Requirements,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,1.30,DSL
+14,,10:00,12:00,3B-352S-22-005,Module B,52S1B03LSA01,Describe Annex L,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,2.00,DSL
+14,,12:00,13:00,3B-352S-22-005,Admin,Lunch,,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,1.00,
+14,,13:00,17:00,3B-352S-22-005,Module B,52S1B03LSA01,Describe SIGINT Annex L Products,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,4.00,DSL
+15,,8:30,10:30,3B-352S-22-005,Module B,52S1B04LSA03,Describe the Targeting Process,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,2.00,DSL
+15,,10:30,12:00,3B-352S-22-005,Module B,52S1B04LSA03,Develop Signals of Interest for Targeting,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,1.30,DSL
+15,,12:00,13:00,3B-352S-22-005,Admin,Lunch,,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,1.00,
+15,,13:00,17:30,3B-352S-22-005,Module B,52S1B04LSA03,Describe the Targeting Process,,Rowe Hall Rm 234,CW3 Denham / CW3 Olivares  ,,4.30,DSL
+16,,8:30,9:30,3B-352S-22-005,Module B,52S1B02LSA11,Discover Army Capability Manager - Aerial,,Rowe Hall 352N CR,,,1.00,DSL
+16,,9:30,10:30,3B-352S-22-005,Module B,52S1B02LSA12,Discover Army Capability Manager - Terrestrial,,Rowe Hall 352N CR / JITC Lab,,,1.00,DSL
+16,,11:30,12:30,3B-352S-22-005,Module B,52S1B02LSA14,Discover TROJAN Capabilities,,Rowe Hall Backpad,,,1.00,FT
+16,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+16,,13:30,14:30,3B-352S-22-005,Module B,52S1B02LSA01,Describe the National SIGINT Requirements Process (NSRP),,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+16,,14:30,16:30,3B-352S-22-005,Module B,52S1B02LSA02,Identify SIGINT Information Needs Using NSRP,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,PE
+16,,16:30,16:45,3B-352S-22-005,Module B,52S1B02SUM,TLO Summary,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+16,,16:45,17:00,3B-352S-22-005,Module B,52S1B03INTRO,TLO Introduction,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+17,,8:30,12:00,3B-352S-22-005,Module B,52S1B03LSA01,Discuss the Collection Management Process,,Rowe Rm 150B,CW3 Kopas,OCP,3.30,DSL
+17,,12:00,13:00,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+17,,13:00,14:30,3B-352S-22-005,Module B,52S1B03LSA02,NSA and Foreign Partnerships,,Rowe Rm 150B,CW3 Kopas,OCP,1.30,DSL
+17,,14:30,15:30,3B-352S-22-005,Module B,52S1B03LSA03,Discover the USSID 109 Waiver Request Process,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+17,,15:30,17:30,3B-352S-22-005,Module B,52S1B03LSA04,Draft a USSID 109 Waiver Request,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,PE
+18,,8:30,9:30,3B-352S-22-005,Module B,52S1B03LSA06,Discuss Memorandum of Agreement/Memorandum of Understanding (MOA/MOU),,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+18,,9:30,12:30,3B-352S-22-005,Module B,52S1B03LSA07,Write an NSA Memorandum of Agreement or Memorandum of Understanding (MOA/MOU),Assign Task,Rowe Rm 150B,CW3 Kopas,OCP,3.00,TE
+18,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+18,,13:30,16:30,3B-352S-22-005,Module B,52S1B03LSA07,Write an NSA Memorandum of Agreement or Memorandum of Understanding (MOA/MOU),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,3.00,TE
+18,,16:30,17:30,3B-352S-22-005,Module B,52S1B03LSA08,Prepare Coordinate External Support for Signal Survey Brief #2,Assign Task,Rowe Rm 150B,CW3 Kopas,OCP,1.00,IN
+19,,8:30,12:30,3B-352S-22-005,Module B,52S1B03LSA08,Prepare Coordinate External Support for Signal Survey Brief #2,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+19,,12:30,13:00,3B-352S-22-005,Module B,Lunch,,,,,,0.30,
+19,,13:30,17:30,3B-352S-22-005,Module B,52S1B03LSA08,Prepare Coordinate External Support for Signal Survey Brief #2,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+20,,8:30,10:30,3B-352S-22-005,Module B,52S1B03LSA08,Prepare Coordinate External Support for Signal Survey Brief #2,,Rowe Rm 150B,CW3 Kopas,OCP,2.00,IN
+20,,10:30,12:00,3B-352S-22-005,Module B,52S1B04LSA03,Discuss SIGINT Support to Targeting,,Rowe Rm 150B,CW3 Kopas,OCP,1.30,SE
+20,,12:00,13:00,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+20,,13:00,17:00,3B-352S-22-005,Module B,52S1B03LSA08,Prepare Coordinate External Support for Signal Survey Brief #2,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+21,,8:30,12:30,3B-352S-22-005,Module B,52S1B03LSA08,Prepare Coordinate External Support for Signal Survey Brief #2,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+21,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+21,,13:30,14:30,3B-352S-22-005,Module B,52S1B03LSA08,Prepare Coordinate External Support for Signal Survey Brief #2,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,IN
+21,,14:30,15:30,3B-352S-22-005,Module B,52S1B03LSA09,Deliver Coordinate External Support for Signal Survey Brief #2,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,TE
+21,,15:30,15:45,3B-352S-22-005,Module B,52S1B03SUM,TLO Summary,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+21,,15:45,16:00,3B-352S-22-005,Module B,52S1B04INTRO,TLO Introduction,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+22,,8:30,9:30,3B-352S-22-005,Module B,52S1B04LSA01,VUport - Foundations of Smart Targeting (TRGT1300),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,TE
+22,,9:30,10:30,3B-352S-22-005,Module B,52S1B04LSA01,VUport - Foundations of Smart Targeting (TRGT1301),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,TE
+22,,10:30,12:30,3B-352S-22-005,Module B,52S1B04LSA01,VUport - Foundations of Smart Targeting (TRGT1302),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,2.00,TE
+22,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+22,,13:30,17:30,3B-352S-22-005,Module B,52S1B04LSA01,VUport - Foundations of Smart Targeting (TRGT1302),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,4.00,TE
+23,,8:30,10:00,3B-352S-22-005,Module B,52S1B02LSA20,VUport - Antenna Recognition and Radio Wave Propagation (SIGG1160),Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.30,TE
+23,,10:00,12:30,3B-352S-22-005,Module B,52S1B04LSA02,Discuss Geolocation Platforms and SIGINT Systems,,Rowe Rm 150B,CW3 Kopas,OCP,2.30,DSL
+23,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+23,,13:30,14:30,3B-352S-22-005,Module B,52S1B04LSA04,Discuss Operational Needs Statement,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+23,,14:30,17:30,3B-352S-22-005,Module B,52S1B04LSA05,Develop an Operational Needs Statement,,Rowe Rm 150B,CW3 Kopas,OCP,3.00,PE
+24,,8:30,9:30,3B-352S-22-005,Module B,52S1B04LSA06,Discuss MI Training Strategy,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,SE
+24,,9:30,10:30,3B-352S-22-005,Module B,52S1B04LSA06,Discuss IEWTPT,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,SE
+24,,10:30,11:30,3B-352S-22-005,Module B,52S1B04LSA06,Discuss Training Doctrine and Resources,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+24,,11:30,12:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+24,,12:30,17:30,3B-352S-22-005,Module B,52S1B04LSA07,Practical Exercise - Develop Training Certification Plan,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,5.00,PE
+25,,8:30,10:30,3B-352S-22-005,Module B,52S1B04LSA08,Prepare Managing SIGINT Assets and Resources Brief #3,Assign Task,Rowe Rm 150B,CW3 Kopas,OCP,2.00,IN
+25,,10:30,12:30,3B-352S-22-005,Module B,52S1B04LSA08,Prepare Managing SIGINT Assets and Resources Brief #3,,Rowe Rm 150B,CW3 Kopas,OCP,2.00,IN
+25,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+25,,13:30,17:30,3B-352S-22-005,Module B,52S1B04LSA08,Prepare Managing SIGINT Assets and Resources Brief #3,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+26,,8:30,12:30,3B-352S-22-005,Module B,52S1B04LSA08,Prepare Managing SIGINT Assets and Resources Brief #3,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+26,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+26,,13:30,17:30,3B-352S-22-005,Module B,52S1B04LSA08,Prepare Managing SIGINT Assets and Resources Brief #3,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+27,,8:30,12:30,3B-352S-22-005,Module B,52S1B04LSA08,Prepare Managing SIGINT Assets and Resources Brief #3,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+27,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+27,,13:30,16:00,3B-352S-22-005,Module B,52S1B04LSA08,Prepare Managing SIGINT Assets and Resources Brief #3,,Rowe Rm 150B,CW3 Kopas,OCP,2.30,IN
+27,,16:00,17:00,3B-352S-22-005,Module B,52S1B04LSA09,Deliver Managing SIGINT Assets and Resources Brief #3,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.00,TE
+27,,17:00,17:15,3B-352S-22-005,Module B,52S1B04SUM,TLO Summary,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+27,,17:15,17:30,3B-352S-22-005,Module B,52S1B05INTRO,TLO Introduction,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+28,,8:30,11:30,3B-352S-22-005,Module B,52S1B05LSA02,Discuss Current Intelligence Issues,,Rowe Rm 150B,CW3 Kopas,OCP,3.00,DSL
+28,,11:30,12:30,3B-352S-22-005,Module B,52S1B05LSA03,"Discuss SIGINT, CEMA, and EW Synchronization",,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+28,,12:30,13:30,3B-352S-22-005,Admin,Lunch,,,,,,1.00,
+28,,13:30,14:30,3B-352S-22-005,Module B,52S1B05LSA04,Discover SIGINT Mission Readiness,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+28,,14:30,17:30,3B-352S-22-005,Module B,52S1B05LSA05,Prepare Current Intelligence Brief #4,Assign Task,Rowe Rm 150B,CW3 Kopas,OCP,3.00,IN
+29,,8:30,12:30,3B-352S-22-005,Module B,52S1B05LSA05,Prepare Current Intelligence Brief #4,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+29,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+29,,13:30,17:30,3B-352S-22-005,Module B,52S1B05LSA05,Prepare Current Intelligence Brief #4,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+30,,8:30,12:30,3B-352S-22-005,Module B,52S1B05LSA05,Prepare Current Intelligence Brief #4,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+30,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+30,,13:30,17:30,3B-352S-22-005,Module B,52S1B05LSA05,Prepare Current Intelligence Brief #4,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+31,,8:30,12:30,3B-352S-22-005,Module B,52S1B05LSA05,Prepare Current Intelligence Brief #4,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+31,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+31,,13:30,16:00,3B-352S-22-005,Module B,52S1B05LSA05,Prepare Current Intelligence Brief #4,,Rowe Rm 150B,CW3 Kopas,OCP,2.30,IN
+31,,16:00,17:30,3B-352S-22-005,Module B,52S1B05LSA06,Deliver Current Intelligence Brief #4,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.30,TE
+31,,17:00,17:15,3B-352S-22-005,Module B,52S1B05SUM,TLO Summary,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+31,,17:15,17:30,3B-352S-22-005,Module B,52S1B06INTRO,TLO Introduction,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+32,,8:30,12:00,3B-352S-22-005,Module B,52S1B06LSA01,Discuss Emerging Technologies,,Rowe Rm 150B,CW3 Kopas,OCP,3.30,DSL
+32,,12:00,12:30,3B-352S-22-005,Module B,52S1B06LSA07,Write Emerging Technology Information Paper,Assign Task,Rowe Rm 150B,CW3 Kopas,OCP,0.30,IN
+32,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+32,,13:30,14:30,3B-352S-22-005,Module B,52S1B06LSA01,Discuss Emerging Technologies,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,DSL
+32,,14:30,15:30,3B-352S-22-005,Module B,52S1B06LSA02,Identify Exploitation Opportunities Against Emerging Technologies,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,PPN
+32,,15:30,17:30,3B-352S-22-005,Module B,52S1B06LSA03,Discuss Electronic Order of Battle Development,,Rowe Rm 150B,CW3 Kopas,OCP,2.00,DSL
+33,,8:30,12:30,3B-352S-22-005,Module B,52S1B06LSA04,Prepare Electronic Order of Battle,Assign Task,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+33,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+33,,13:30,17:30,3B-352S-22-005,Module B,52S1B06LSA04,Prepare Electronic Order of Battle,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+34,,8:30,12:30,3B-352S-22-005,Module B,52S1B06LSA04,Prepare Electronic Order of Battle,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+34,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+34,,13:30,17:30,3B-352S-22-005,Module B,52S1B06LSA04,Prepare Electronic Order of Battle,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+35,,8:30,12:30,3B-352S-22-005,Module B,52S1B06LSA04,Prepare Electronic Order of Battle,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+35,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+35,,13:30,16:00,3B-352S-22-005,Module B,52S1B06LSA04,Prepare Electronic Order of Battle,,Rowe Rm 150B,CW3 Kopas,OCP,2.30,IN
+35,,16:00,17:30,3B-352S-22-005,Module B,52S1B06LSA05,Deliver Electronic Order of Battle,Assignment Due,Rowe Rm 150B,CW3 Kopas,OCP,1.30,PE
+36,,8:30,12:30,3B-352S-22-005,Module B,52S1B06LSA06,Prepare Emerging Technology Brief #5,Assign Task,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+36,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+36,,13:30,17:30,3B-352S-22-005,Module B,52S1B06LSA06,Prepare Emerging Technology Brief #5,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+37,,7:00,8:30,3B-352S-22-005,Module B,Class Breakfast,SIGINT Class Breakfast,,TBD,,,1.30,
+37,,8:30,12:30,3B-352S-22-005,Module B,52S1B06LSA06,Prepare Emerging Technology Brief #5,,Rowe Rm 150B,CW3 Kopas,OCP,4.00,IN
+37,,12:30,13:30,3B-352S-22-005,Module B,Lunch,,,,,,1.00,
+37,,13:30,16:00,3B-352S-22-005,Module B,52S1B06LSA06,Prepare Emerging Technology Brief #5,,Rowe Rm 150B,CW3 Kopas,OCP,2.30,IN
+37,,16:00,17:00,3B-352S-22-005,Module B,52S1B06LSA07,Deliver Emerging Technology Brief #5,,Rowe Rm 150B,CW3 Kopas,OCP,1.00,TE
+37,,17:00,17:15,3B-352S-22-005,Module B,52S1B06SUM,TLO Summary,,Rowe Rm 150B,CW3 Kopas,OCP,0.15,DSL
+37,,17:15,17:30,3B-352S-22-005,Module B,52S1B06LSA07,Write Emerging Technology Information Paper,Assignment Due by Midnight,Rowe Rm 150B,CW3 Kopas,OCP,0.15,TE
